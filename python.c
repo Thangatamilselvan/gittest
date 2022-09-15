@@ -1,0 +1,2 @@
+s=sonu
+print(s)
